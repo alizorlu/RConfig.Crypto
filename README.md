@@ -20,6 +20,11 @@
 
 ## :star2: About the Project
 
+### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://i.postimg.cc/SxFjgZWW/rconfig.png" alt='image' width='800'/></a> </div>
+
+
+
 ### :dart: Features
 - Security
 - Key Based Encryption
