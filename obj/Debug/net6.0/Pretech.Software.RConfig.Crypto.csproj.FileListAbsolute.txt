@@ -1,0 +1,13 @@
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\bin\Debug\net6.0\Pretech.Software.RConfig.Crypto.deps.json
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\bin\Debug\net6.0\Pretech.Software.RConfig.Crypto.dll
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\bin\Debug\net6.0\Pretech.Software.RConfig.Crypto.pdb
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.csproj.AssemblyReference.cache
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.AssemblyInfoInputs.cache
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.AssemblyInfo.cs
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.csproj.CoreCompileInputs.cache
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.dll
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\refint\Pretech.Software.RConfig.Crypto.dll
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\Pretech.Software.RConfig.Crypto.pdb
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\obj\Debug\net6.0\ref\Pretech.Software.RConfig.Crypto.dll
+C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\bin\Debug\net6.0\licences.txt

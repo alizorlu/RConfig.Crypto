@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RConfig.Crypto.1.0.0</id>
+    <version>1.0.0</version>
+    <authors>Ali Zorlu</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository type="git" commit="388cf3b81a9acb49593dde341d1ab8dd745fee59" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="JsonFormatterPlus" version="1.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\azorl\source\repos\Pretech.Software\Pretech.Software\RemoteConfig\Pretech.Software.RConfig.Crypto\bin\Release\net6.0\Pretech.Software.RConfig.Crypto.dll" target="lib\net6.0\Pretech.Software.RConfig.Crypto.dll" />
+  </files>
+</package>
