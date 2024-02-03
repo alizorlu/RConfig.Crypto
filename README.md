@@ -14,6 +14,7 @@
 - [Roadmap](#compass-roadmap)
 - [FAQ](#grey_question-faq)
 - [License](#warning-license)
+- [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
 
@@ -22,6 +23,16 @@
 ### :dart: Features
 - Security
 - Key Based Encryption
+
+
+## :toolbox: Getting Started
+
+### :gear: Installation
+
+Nuget
+```bash
+dotnet add package RConfig.Crypto.1.0.0 --version 1.0.0
+```
 
 
 ## :compass: Roadmap
@@ -45,6 +56,12 @@
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
+
+## :handshake: Contact
+
+Ali Zorlu - -
+
+Project Link: [https://github.com/alizorlu/RConfig.Crypto](https://github.com/alizorlu/RConfig.Crypto)
 
 ## :gem: Acknowledgements
 
